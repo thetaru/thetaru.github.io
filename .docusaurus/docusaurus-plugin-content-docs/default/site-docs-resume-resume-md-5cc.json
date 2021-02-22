@@ -1,0 +1,21 @@
+{
+  "unversionedId": "resume/Resume",
+  "id": "resume/Resume",
+  "isDocsHomePage": false,
+  "title": "職務経歴",
+  "description": "略歴",
+  "source": "@site/docs/resume/resume.md",
+  "slug": "/resume/Resume",
+  "permalink": "/docs/resume/Resume",
+  "version": "current",
+  "sidebar_label": "職務経歴",
+  "sidebar": "docs",
+  "previous": {
+    "title": "プロフィール",
+    "permalink": "/docs/about/AboutMe"
+  },
+  "next": {
+    "title": "ポートフォリオ",
+    "permalink": "/docs/portfolio/Portfolio"
+  }
+}

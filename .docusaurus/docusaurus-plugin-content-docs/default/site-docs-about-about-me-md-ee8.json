@@ -1,0 +1,21 @@
+{
+  "unversionedId": "about/AboutMe",
+  "id": "about/AboutMe",
+  "isDocsHomePage": false,
+  "title": "プロフィール",
+  "description": "社会人になって 2 年目です。",
+  "source": "@site/docs/about/about_me.md",
+  "slug": "/about/AboutMe",
+  "permalink": "/docs/about/AboutMe",
+  "version": "current",
+  "sidebar_label": "プロフィール",
+  "sidebar": "docs",
+  "previous": {
+    "title": "このページについて",
+    "permalink": "/docs/about/AboutThisPage"
+  },
+  "next": {
+    "title": "職務経歴",
+    "permalink": "/docs/resume/Resume"
+  }
+}

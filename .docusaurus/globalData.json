@@ -1,0 +1,38 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "about/AboutThisPage",
+          "docs": [
+            {
+              "id": "about/AboutMe",
+              "path": "/docs/about/AboutMe",
+              "sidebar": "docs"
+            },
+            {
+              "id": "about/AboutThisPage",
+              "path": "/docs/about/AboutThisPage",
+              "sidebar": "docs"
+            },
+            {
+              "id": "portfolio/Portfolio",
+              "path": "/docs/portfolio/Portfolio",
+              "sidebar": "docs"
+            },
+            {
+              "id": "resume/Resume",
+              "path": "/docs/resume/Resume",
+              "sidebar": "docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "about/AboutThisPage",
+  "id": "about/AboutThisPage",
+  "isDocsHomePage": false,
+  "title": "このページについて",
+  "description": "ポートフォリオとして作成しました。",
+  "source": "@site/docs/about/about_this_page.md",
+  "slug": "/about/AboutThisPage",
+  "permalink": "/docs/about/AboutThisPage",
+  "version": "current",
+  "sidebar_label": "このページについて",
+  "sidebar": "docs",
+  "next": {
+    "title": "プロフィール",
+    "permalink": "/docs/about/AboutMe"
+  }
+}

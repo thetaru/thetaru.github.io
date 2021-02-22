@@ -1,0 +1,16 @@
+{
+  "unversionedId": "portfolio/Portfolio",
+  "id": "portfolio/Portfolio",
+  "isDocsHomePage": false,
+  "title": "ポートフォリオ",
+  "source": "@site/docs/portfolio/portfolio.md",
+  "slug": "/portfolio/Portfolio",
+  "permalink": "/docs/portfolio/Portfolio",
+  "version": "current",
+  "sidebar_label": "ポートフォリオ",
+  "sidebar": "docs",
+  "previous": {
+    "title": "職務経歴",
+    "permalink": "/docs/resume/Resume"
+  }
+}
