@@ -5,10 +5,11 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: '/static/img/favicon.ico',
   organizationName: 'thetaru', // Usually your GitHub org/user name.
   projectName: 'thetaru.github.io', // Usually your repo name.
   themeConfig: {
+    defaultMode: 'dark',
     navbar: {
       hideOnScroll: true,
       title: 'thetaru.github.io',

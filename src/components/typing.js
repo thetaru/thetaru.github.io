@@ -10,7 +10,7 @@ const type = (element, sentence) => {
 }
 
 const Typing = () => {
-    let message = "thetaru.github.io";
+    let message = 'Welcome to my homepage';
     useEffect(() => {
         type("#typing", message);
     }, [message]);

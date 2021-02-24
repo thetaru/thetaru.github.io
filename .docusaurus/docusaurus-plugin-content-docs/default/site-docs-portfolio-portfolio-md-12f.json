@@ -3,6 +3,7 @@
   "id": "portfolio/Portfolio",
   "isDocsHomePage": false,
   "title": "ポートフォリオ",
+  "description": "Portfolio Site",
   "source": "@site/docs/portfolio/portfolio.md",
   "slug": "/portfolio/Portfolio",
   "permalink": "/docs/portfolio/Portfolio",

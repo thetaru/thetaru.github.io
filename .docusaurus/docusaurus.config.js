@@ -5,10 +5,11 @@ export default {
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "/static/img/favicon.ico",
   "organizationName": "thetaru",
   "projectName": "thetaru.github.io",
   "themeConfig": {
+    "defaultMode": "dark",
     "navbar": {
       "hideOnScroll": true,
       "title": "thetaru.github.io",
