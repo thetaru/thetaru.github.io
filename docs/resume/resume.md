@@ -32,6 +32,7 @@ slug: /resume/Resume
 - BIND
 - Nagios Log Server
 - NFS
+- NIS
 - Postfix
 - Rsyslog
 - Samba
