@@ -36,6 +36,7 @@ slug: /resume/Resume
 - Postfix
 - Rsyslog
 - Samba
+- Squid
 - Zabbix
 
 ### 言語
