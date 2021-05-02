@@ -7,8 +7,8 @@
       0,
       1,
       3,
-      11,
-      19,
+      18,
+      26,
       27,
       28,
       29,
@@ -16,12 +16,12 @@
       31,
       2
     ],
-    "27": [
+    "26": [
       0,
       1,
       2,
-      19,
-      27
+      18,
+      26
     ],
     "common": [
       1,
@@ -33,13 +33,13 @@
       9,
       10,
       11,
-      12,
-      16,
+      15,
+      17,
       18,
-      19,
       20,
       21,
-      24,
+      23,
+      26,
       27,
       28,
       29,
@@ -52,8 +52,8 @@
       2,
       3,
       6,
-      11,
-      19,
+      18,
+      24,
       25,
       26,
       27,
@@ -96,41 +96,38 @@
       0,
       10
     ],
-    "@theme/BlogTagsPostsPage": [
-      0,
-      1,
-      2,
-      11
-    ],
     "@site/blog/2019-05-28-hola.md?truncated=true": [
       0,
-      12
+      11
     ],
     "~docs/default/version-current-metadata-prop-751.json": [
-      13
+      12
     ],
     "~blog/default/blog-tags-tags-4c2.json": [
-      14
+      13
     ],
     "~blog/default/blog-tags-docusaurus-0e0.json": [
-      15
+      14
     ],
     "@site/blog/2019-05-30-welcome.md?truncated=true": [
       0,
-      16
+      15
     ],
     "~blog/default/blog-c06.json": [
-      17
+      16
     ],
     "@site/blog/2019-05-28-hola.md": [
       0,
-      18
+      17
     ],
     "@site/src/pages/index.js": [
       0,
       1,
       2,
-      27,
+      26,
+      18
+    ],
+    "/home/thetaru/dev/thetaru.github.io/.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json": [
       19
     ],
     "@site/docs/about/about_this_page.md": [
@@ -144,35 +141,38 @@
     "~blog/default/blog-tags-hola-ea2.json": [
       22
     ],
-    "/root/dev/thetaru.github.io/.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json": [
-      23
-    ],
     "@site/docs/about/about_me.md": [
       0,
-      24
+      23
     ],
     "@generated/docusaurus.config": [
       1,
-      26,
-      25
+      25,
+      24
     ],
     "main": [
       1,
-      26,
-      25
+      25,
+      24
     ],
     "runtime~main": [
       1,
-      25,
-      26
+      24,
+      25
     ],
     "@theme/BlogPostPage": [
       0,
       1,
       2,
-      28
+      27
     ],
     "@theme/BlogListPage": [
+      0,
+      1,
+      2,
+      28
+    ],
+    "@theme/BlogTagsPostsPage": [
       0,
       1,
       2,
@@ -195,24 +195,24 @@
     "0": {
       "js": [
         {
-          "file": "common.3c0aa85f.js",
-          "hash": "d6eb79fb716b718e9f4f",
-          "publicPath": "/common.3c0aa85f.js"
+          "file": "common.7aa0bd8e.js",
+          "hash": "288da005e06f2f620582",
+          "publicPath": "/common.7aa0bd8e.js"
         }
       ]
     },
     "1": {
       "css": [
         {
-          "file": "styles.ebbba995.css",
-          "hash": "559851f6124d40baa3c2",
-          "publicPath": "/styles.ebbba995.css"
+          "file": "styles.4dba287d.css",
+          "hash": "c288e09f1e1be7f167b9",
+          "publicPath": "/styles.4dba287d.css"
         }
       ],
       "js": [
         {
           "file": "styles.5e0e0c31.js",
-          "hash": "559851f6124d40baa3c2",
+          "hash": "c288e09f1e1be7f167b9",
           "publicPath": "/styles.5e0e0c31.js"
         }
       ]
@@ -220,18 +220,18 @@
     "2": {
       "js": [
         {
-          "file": "2.8e12b455.js",
-          "hash": "41327f38fb8f14014607",
-          "publicPath": "/2.8e12b455.js"
+          "file": "2.a13849c5.js",
+          "hash": "3cd3cb0c355f857f1f3a",
+          "publicPath": "/2.a13849c5.js"
         }
       ]
     },
     "3": {
       "js": [
         {
-          "file": "01a85c17.acdf4751.js",
-          "hash": "cb68dd8f6a1b7a6be6e4",
-          "publicPath": "/01a85c17.acdf4751.js"
+          "file": "01a85c17.2e866cba.js",
+          "hash": "4ddb7fb417013002731b",
+          "publicPath": "/01a85c17.2e866cba.js"
         }
       ]
     },
@@ -247,27 +247,27 @@
     "5": {
       "js": [
         {
-          "file": "12f93252.54420790.js",
-          "hash": "9a62474a9ee6ecd790e7",
-          "publicPath": "/12f93252.54420790.js"
+          "file": "12f93252.d32370b5.js",
+          "hash": "feca3df419f192424ac9",
+          "publicPath": "/12f93252.d32370b5.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "17896441.e14d15d9.js",
-          "hash": "71948e1ce21612c1b4d3",
-          "publicPath": "/17896441.e14d15d9.js"
+          "file": "17896441.c47e32f3.js",
+          "hash": "70404135703fecf174a4",
+          "publicPath": "/17896441.c47e32f3.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "2868cdab.fd02e2fb.js",
-          "hash": "81c65be64ac381f27383",
-          "publicPath": "/2868cdab.fd02e2fb.js"
+          "file": "2868cdab.c106b43a.js",
+          "hash": "da9bf4daff5545587ebc",
+          "publicPath": "/2868cdab.c106b43a.js"
         }
       ]
     },
@@ -283,198 +283,198 @@
     "9": {
       "js": [
         {
-          "file": "3570154c.004c861d.js",
-          "hash": "86283f42df098b4a25cd",
-          "publicPath": "/3570154c.004c861d.js"
+          "file": "3570154c.b9aab42b.js",
+          "hash": "2726a751d2694b119413",
+          "publicPath": "/3570154c.b9aab42b.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "5cc6b50b.cdcaca88.js",
-          "hash": "7477a73c1bced5a9003d",
-          "publicPath": "/5cc6b50b.cdcaca88.js"
+          "file": "5cc6b50b.8f067d5e.js",
+          "hash": "de0740f4370378ee94d2",
+          "publicPath": "/5cc6b50b.8f067d5e.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "6875c492.47024db6.js",
-          "hash": "19b2f863028b06c54cc4",
-          "publicPath": "/6875c492.47024db6.js"
+          "file": "8e9f0a8a.2bc78b78.js",
+          "hash": "be29cb52f5e9206b17a1",
+          "publicPath": "/8e9f0a8a.2bc78b78.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "8e9f0a8a.e9024471.js",
-          "hash": "5580bcd3ae12826e2d2e",
-          "publicPath": "/8e9f0a8a.e9024471.js"
+          "file": "935f2afb.daaf53df.js",
+          "hash": "fe0d973158ddaa5b0577",
+          "publicPath": "/935f2afb.daaf53df.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "935f2afb.82eeb694.js",
-          "hash": "bcad186133a2846b2799",
-          "publicPath": "/935f2afb.82eeb694.js"
+          "file": "a7023ddc.20608a2e.js",
+          "hash": "01451191f979345acca0",
+          "publicPath": "/a7023ddc.20608a2e.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "a7023ddc.c2c7cf13.js",
-          "hash": "59ee4c224c22dd2a634f",
-          "publicPath": "/a7023ddc.c2c7cf13.js"
+          "file": "a80da1cf.ff067d96.js",
+          "hash": "ad850a8fdf7aaad17da8",
+          "publicPath": "/a80da1cf.ff067d96.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "a80da1cf.a283947f.js",
-          "hash": "375283e8f9ca312735f2",
-          "publicPath": "/a80da1cf.a283947f.js"
+          "file": "af172acd.3ed65ec2.js",
+          "hash": "5a5010f985c001d62a56",
+          "publicPath": "/af172acd.3ed65ec2.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "af172acd.150c93bb.js",
-          "hash": "d28026a4e6c3f27f5b2e",
-          "publicPath": "/af172acd.150c93bb.js"
+          "file": "b2b675dd.42854bba.js",
+          "hash": "474632e235dbfc404bdc",
+          "publicPath": "/b2b675dd.42854bba.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "b2b675dd.804c7391.js",
-          "hash": "b0e3f57d881106bd0196",
-          "publicPath": "/b2b675dd.804c7391.js"
+          "file": "bdd709f1.db656102.js",
+          "hash": "249c63b463aceba840cf",
+          "publicPath": "/bdd709f1.db656102.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "bdd709f1.83ba0cec.js",
-          "hash": "6b4d279c6c12a486f269",
-          "publicPath": "/bdd709f1.83ba0cec.js"
+          "file": "c4f5d8e4.e6bc2360.js",
+          "hash": "aa9f6a5f06234de107fc",
+          "publicPath": "/c4f5d8e4.e6bc2360.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "c4f5d8e4.a75a281c.js",
-          "hash": "c8da6ef7beea122d6d30",
-          "publicPath": "/c4f5d8e4.a75a281c.js"
+          "file": "c6783177.323b5e1f.js",
+          "hash": "2b060d9f0787de77cd30",
+          "publicPath": "/c6783177.323b5e1f.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "cd02694c.05186f5c.js",
-          "hash": "dd692c6036c83d3ad770",
-          "publicPath": "/cd02694c.05186f5c.js"
+          "file": "cd02694c.42c674dc.js",
+          "hash": "b03e2d2674a81d4c2812",
+          "publicPath": "/cd02694c.42c674dc.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "d610846f.6eccc786.js",
-          "hash": "2cf8a010624973932b31",
-          "publicPath": "/d610846f.6eccc786.js"
+          "file": "d610846f.2600eafb.js",
+          "hash": "d8ef22b206d28ebba3ce",
+          "publicPath": "/d610846f.2600eafb.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "e16015ca.318c3278.js",
-          "hash": "93b107355f3008c7e6b1",
-          "publicPath": "/e16015ca.318c3278.js"
+          "file": "e16015ca.ea77e032.js",
+          "hash": "cc0a41d3f28d9c7588a2",
+          "publicPath": "/e16015ca.ea77e032.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "e903f870.db9df75b.js",
-          "hash": "652e9c61fe467addad7e",
-          "publicPath": "/e903f870.db9df75b.js"
+          "file": "ee8a3c07.7bf201ec.js",
+          "hash": "581b025d19dc93517609",
+          "publicPath": "/ee8a3c07.7bf201ec.js"
         }
       ]
     },
     "24": {
       "js": [
         {
-          "file": "ee8a3c07.7ceeea5d.js",
-          "hash": "a7809988f0ec8347a80b",
-          "publicPath": "/ee8a3c07.7ceeea5d.js"
+          "file": "main.fe44af07.js",
+          "hash": "11c590f2ce37ad43f074",
+          "publicPath": "/main.fe44af07.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "main.eae17ca9.js",
-          "hash": "9f8d6f0f25e764d8de1c",
-          "publicPath": "/main.eae17ca9.js"
+          "file": "runtime~main.3a227a18.js",
+          "hash": "cfe60f1cae4db09beff7",
+          "publicPath": "/runtime~main.3a227a18.js"
         }
       ]
     },
     "26": {
       "js": [
         {
-          "file": "runtime~main.40b103be.js",
-          "hash": "e13e1d07c04cbbdc53dc",
-          "publicPath": "/runtime~main.40b103be.js"
+          "file": "26.2721e82b.js",
+          "hash": "0d41bca6d0367424798b",
+          "publicPath": "/26.2721e82b.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "27.7ec5cee2.js",
-          "hash": "7cd1ecc692c6491d0ebb",
-          "publicPath": "/27.7ec5cee2.js"
+          "file": "27.9de533f8.js",
+          "hash": "69013e9de85e028267bd",
+          "publicPath": "/27.9de533f8.js"
         }
       ]
     },
     "28": {
       "js": [
         {
-          "file": "28.e3838a08.js",
-          "hash": "f6a45370e2bfcef24432",
-          "publicPath": "/28.e3838a08.js"
+          "file": "28.e1a1e0d0.js",
+          "hash": "b4bd33ee6358be87374c",
+          "publicPath": "/28.e1a1e0d0.js"
         }
       ]
     },
     "29": {
       "js": [
         {
-          "file": "29.de4941dd.js",
-          "hash": "cb5d751047e18299b3c1",
-          "publicPath": "/29.de4941dd.js"
+          "file": "29.cfa9b2b4.js",
+          "hash": "3d1638fb1a550e726811",
+          "publicPath": "/29.cfa9b2b4.js"
         }
       ]
     },
     "31": {
       "js": [
         {
-          "file": "30.73d7db56.js",
-          "hash": "b038dd41425cc25f2f70",
-          "publicPath": "/30.73d7db56.js"
+          "file": "30.d6ae58ec.js",
+          "hash": "143e3f4f6aa31a5df3e2",
+          "publicPath": "/30.d6ae58ec.js"
         },
         {
           "file": "31.f9219180.js",
