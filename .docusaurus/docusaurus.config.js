@@ -61,10 +61,10 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/thetaru/dev/thetaru.github.io/sidebars.js"
+          "sidebarPath": "/root/dev/thetaru.github.io/sidebars.js"
         },
         "theme": {
-          "customCss": "/home/thetaru/dev/thetaru.github.io/src/css/custom.css"
+          "customCss": "/root/dev/thetaru.github.io/src/css/custom.css"
         }
       }
     ]
